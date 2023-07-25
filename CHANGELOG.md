@@ -1,4 +1,4 @@
-# Changelog for `poker-calculator`
+# Changelog for `poker-calculator-haskell`
 
 All notable changes to this project will be documented in this file.
 

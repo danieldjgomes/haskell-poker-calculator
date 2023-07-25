@@ -1,1 +1,1 @@
-# haskell-poker-calculator
+# poker-calculator-haskell
